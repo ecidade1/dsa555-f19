@@ -2,13 +2,13 @@
 /*                                                */
 /*  Lab 1 Starter file                            */
 /*                                                */
-/*  Name:                                         */
-/*  Student number:                               */
+/*  Name:  Eric Cidade                            */
+/*  Student number: 117953166                     */
 /*                                                */
 /**************************************************/
 
 unsigned int factorial (unsigned int n){
-test;
+
 }
 
 double power (double base, unsigned int n){
