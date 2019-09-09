@@ -8,7 +8,7 @@
 /**************************************************/
 
 unsigned int factorial (unsigned int n){
-
+test;
 }
 
 double power (double base, unsigned int n){
